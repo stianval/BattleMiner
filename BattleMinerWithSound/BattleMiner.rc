@@ -1,0 +1,9 @@
+#include "resource.h"
+
+IDI_MINE         ICON  "Mine.ico"
+
+IDI_POINTER       BITMAP "art/Pointer.bmp"
+IDI_MINETILES     BITMAP "art/minetiles.bmp"
+IDI_TITLE_SCREEN  BITMAP "art/titlescreen.bmp"
+IDI_INSTRUCTIONS  BITMAP "art/instructions.bmp"
+IDI_MENU_BG       BITMAP "art/menu_screen_basic.bmp"
